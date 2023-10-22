@@ -1,0 +1,12 @@
+Package: ngmr
+Title: Ngram Markov Model
+Version: 0.0.0.9000
+Authors@R: 
+    person("Joonas", "Miettinen", , "joonas.m.miettinen@gmail.com",
+           role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Fit and evaluate ngram Marko models.
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+License: MIT + file LICENSE
