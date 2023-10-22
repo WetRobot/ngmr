@@ -5,7 +5,11 @@ Authors@R:
     person("Joonas", "Miettinen", , "joonas.m.miettinen@gmail.com",
            role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Fit and evaluate ngram Marko models.
+Description: Fit and evaluate ngram Markov models.
+Imports:
+    Rcpp
+LinkingTo:
+    Rcpp
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.3
