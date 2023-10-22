@@ -1,0 +1,3 @@
+[submodule "src/ngm"]
+	path = src/ngm
+	url = git@github.com:WetRobot/ngm
